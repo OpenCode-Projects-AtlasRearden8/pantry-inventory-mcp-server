@@ -1,5 +1,11 @@
-__pycache__/
 *.py[cod]
-data/
-server-smoke.err
+*.pyc
 .DS_Store
+.env
+.env.*
+.venv/
+__pycache__/
+data/
+dist/*.tmp
+node_modules/
+server-smoke.err

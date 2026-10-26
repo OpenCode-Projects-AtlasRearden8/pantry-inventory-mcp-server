@@ -1,0 +1,207 @@
+{
+  "format": "pantry-inventory/1",
+  "items": [
+    {
+      "name": "rice",
+      "quantity": 3,
+      "unit": "cup",
+      "location": "pantry",
+      "added_date": "2026-10-26"
+    },
+    {
+      "name": "pasta",
+      "quantity": 1,
+      "unit": "box",
+      "location": "pantry",
+      "added_date": "2026-10-26"
+    },
+    {
+      "name": "canned black beans",
+      "quantity": 2,
+      "unit": "can",
+      "location": "pantry",
+      "added_date": "2026-10-26"
+    },
+    {
+      "name": "canned tomatoes",
+      "quantity": 3,
+      "unit": "can",
+      "location": "pantry",
+      "added_date": "2026-10-26"
+    },
+    {
+      "name": "oatmeal",
+      "quantity": 1,
+      "unit": "box",
+      "location": "pantry",
+      "added_date": "2026-10-26"
+    },
+    {
+      "name": "peanut butter",
+      "quantity": 1,
+      "unit": "jar",
+      "location": "pantry",
+      "added_date": "2026-10-26"
+    },
+    {
+      "name": "flour",
+      "quantity": 4,
+      "unit": "cup",
+      "location": "pantry",
+      "added_date": "2026-10-26"
+    },
+    {
+      "name": "garlic",
+      "quantity": 5,
+      "unit": "clove",
+      "location": "pantry",
+      "added_date": "2026-10-26"
+    },
+    {
+      "name": "onions",
+      "quantity": 2,
+      "unit": "head",
+      "location": "pantry",
+      "added_date": "2026-10-26",
+      "expiry_date": "2026-10-28"
+    },
+    {
+      "name": "milk",
+      "quantity": 1,
+      "unit": "quart",
+      "location": "fridge",
+      "added_date": "2026-10-26",
+      "expiry_date": "2026-10-29"
+    },
+    {
+      "name": "eggs",
+      "quantity": 6,
+      "unit": "each",
+      "location": "fridge",
+      "added_date": "2026-10-26",
+      "expiry_date": "2026-11-05"
+    },
+    {
+      "name": "cheddar cheese",
+      "quantity": 8,
+      "unit": "oz",
+      "location": "fridge",
+      "added_date": "2026-10-26",
+      "expiry_date": "2026-11-09"
+    },
+    {
+      "name": "chicken thighs",
+      "quantity": 4,
+      "unit": "each",
+      "location": "freezer",
+      "added_date": "2026-10-26",
+      "expiry_date": "2026-12-10"
+    },
+    {
+      "name": "frozen peas",
+      "quantity": 1,
+      "unit": "bag",
+      "location": "freezer",
+      "added_date": "2026-10-26",
+      "expiry_date": "2027-02-23"
+    },
+    {
+      "name": "butter",
+      "quantity": 1,
+      "unit": "stick",
+      "location": "fridge",
+      "added_date": "2026-10-26"
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Weeknight rice and bean bowl",
+      "ingredients": [
+        {
+          "name": "rice",
+          "quantity": 1,
+          "unit": "cup"
+        },
+        {
+          "name": "canned black beans",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "onions",
+          "quantity": 1
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "clove"
+        },
+        {
+          "name": "canned tomatoes",
+          "quantity": 1,
+          "unit": "can"
+        },
+        {
+          "name": "lime",
+          "quantity": 1
+        }
+      ],
+      "instructions": "Cook rice. Warm beans with chopped onion, garlic, and tomatoes. Serve over rice and finish with lime."
+    },
+    {
+      "name": "Emergency pasta and peas",
+      "ingredients": [
+        {
+          "name": "pasta",
+          "quantity": 1
+        },
+        {
+          "name": "frozen peas",
+          "quantity": 1
+        },
+        {
+          "name": "butter",
+          "quantity": 1
+        },
+        {
+          "name": "garlic",
+          "quantity": 2,
+          "unit": "clove"
+        },
+        {
+          "name": "parmesan",
+          "quantity": 2,
+          "unit": "oz"
+        }
+      ],
+      "instructions": "Boil pasta with the peas for the last minute. Toss with melted butter and minced garlic; finish with parmesan."
+    },
+    {
+      "name": "Sheet-pan chicken thighs",
+      "ingredients": [
+        {
+          "name": "chicken thighs",
+          "quantity": 4,
+          "unit": "each"
+        },
+        {
+          "name": "potatoes",
+          "quantity": 3,
+          "unit": "each"
+        },
+        {
+          "name": "garlic",
+          "quantity": 3,
+          "unit": "clove"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": "Toss thighs and halved potatoes with oil and garlic; roast at 425F about 35 minutes."
+    }
+  ],
+  "history": []
+}

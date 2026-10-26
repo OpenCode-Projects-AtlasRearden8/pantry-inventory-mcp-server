@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+data/
+server-smoke.err
+.DS_Store
